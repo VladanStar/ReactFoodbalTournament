@@ -11,6 +11,9 @@ body {
   background-color: #202142;
   color: #fff;
   line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  
 }
 
 ul {
